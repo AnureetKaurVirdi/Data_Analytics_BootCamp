@@ -1,17 +1,5 @@
 ### Module 2 Challenge: VBA of Wall Street
 
-### Deliverable Part 2: Written Analysis of the Results
-
-### University of Toronto
-
-### Data Analytics Bootcamp
-
-### Submitted by: Anureet Kaur Virdi
-
-### March 20th, 2022
-
-
-
 #### Overview of the Project:
 
 This project consisted of refactoring a Microsoft Excel VBA code to collect information and trends about stocks from green energy companies in the years 2017 and 2018. The data from this analysis would be used to determine if the companies are worth investing in by Steve’s parents. This process was originally completed, this attempt was to increase the efficiency of the original code. This report will help gain a more valuable understanding of the stocks of green energy companies. This analysis will help Steve decide and gain knowledge from the raw data to plan future investments. 
