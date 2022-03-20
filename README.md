@@ -8,7 +8,15 @@ This project consisted of refactoring a Microsoft Excel VBA code to collect info
 
 An instruction code script was very useful in understanding and working on this project. The project included finding a Total Daily Volume for all the companies, finding DQ’s Yearly Return, and comparing the data for the two given years. Refactoring the code helped by making the process faster and getting all the calculations and the formatting of the data results in one code. The following are some screenshots documenting the resulting analysis.    
 
+![Original_2017](/assets/Resources/Original_2017.jpg)
+![Original_2018](/assets/Resources/Original_2018.jpg)
+![Refactored_2017](/assets/Resources/Refactored_2017.jpg)
+![Refactored_2018](/assets/Resources/Refactored_2018.jpg)
+
 As evident from the run-time screenshots, the refactored code is efficient and orderly as compared to the original code written during the module practice. Similarly, the output in the data tables was also organized and formatted correctly when prompted from the refactored code. 
+
+![VBA_Challenge_2017.jpg](/assets/Resources/VBA_Challenge_2017.jpg)
+![VBA_Challenge_2018.jpg](/assets/Resources/VBA_Challenge_2018.jpg)
 
 #### Summary:
 
